@@ -13,22 +13,22 @@
 #define DHTPIN 27  // Remplacez 27 par le numéro de la broche GPIO à laquelle le capteur est connecté
 #define DHTTYPE DHT11
 
-const char *senderEmail = "hanaahmedmanoubi@gmail.com";
+const char *senderEmail = "yourEmail";
 const char *senderPassword = "rres yvny vfjv mxpw";
-const char *recipientEmail = "hana.ahmed@isimg.tn";
+const char *recipientEmail = "TheRecieverEmail";
 const char *senderName = "esp_32";
 const char *emailSubjectFlame = "Flame Detected";
 const char *emailSubjectGaz = "Gas Detected";
 
-String phoneNumber = "21650810748";
-String apiKey = "7341257";
+String phoneNumber = "yourphonenumber";
+String apiKey = "yourapi";
 
 const int flameSensorPin = 34; 
 const int gazSensorPin = 35;
 
 DHT dht(DHTPIN, DHTTYPE);
 const char *ssid = "pc";
-const char *password = "hana202024";
+const char *password = "yourpassword";
 const char auth[] = BLYNK_AUTH_TOKEN;
 BlynkTimer timer;
 
