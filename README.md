@@ -18,3 +18,10 @@
 Les protocoles utilisés :
  - Wi-Fi (Wireless Fidelity)
  - SMTP (Simple Mail Transfer Protocol)
+
+#Réalisation :
+![image](https://github.com/nadahammadii/SmartKitchen/assets/148150733/ec3f5b23-2cc0-42d4-a3a8-21a4b1e8000f)
+
+![image](https://github.com/nadahammadii/SmartKitchen/assets/148150733/eaddaf30-e630-40f2-b6d3-b57857eba82a)
+
+
