@@ -9,7 +9,7 @@
  *Cable USB 
  *Capteur Humidité
 
-2=Logiciels:
+2)Logiciels:
   - ArduinO IDE
   - Blynk
   - WhatsApp
